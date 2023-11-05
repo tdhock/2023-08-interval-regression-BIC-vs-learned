@@ -1,0 +1,3 @@
+fill	colour	x	y	clickSelects.variable	clickSelects.value	showSelected1	showSelected2
+#00FF00	#FF0000	-0.00366525045723953	274	BIC.thresh	-0.00366525045723953	BIC	predicted
+#00FF00	#00BFFF	-0.00249927116413295	82	learned.thresh	-0.00249927116413295	learned	predicted

@@ -1,0 +1,264 @@
+colour	x	y	key	label	showSelectedlegendcolour	showSelected.variable	showSelected.value	group
+#FF0000	1.45	5.1	BIC -1	total too low = -8612.7 (2845/2845 intervals)	BIC	BIC.thresh	-6.57589541978262	1
+#FF0000	1.45	5.8	BIC 0	573 intervals correctly predicted	BIC	BIC.thresh	-6.57589541978262	2
+#FF0000	1.45	5.1	BIC -1	total too low = -5299.4 (2735/2845 intervals)	BIC	BIC.thresh	-5.39751112112849	1
+#FF0000	1.45	5.8	BIC 0	683 intervals correctly predicted	BIC	BIC.thresh	-5.39751112112849	2
+#FF0000	1.45	5.1	BIC -1	total too low = -4387.4 (2620/2845 intervals)	BIC	BIC.thresh	-5.05722826783035	1
+#FF0000	1.45	5.8	BIC 0	798 intervals correctly predicted	BIC	BIC.thresh	-5.05722826783035	2
+#FF0000	1.45	5.1	BIC -1	total too low = -3844.5 (2503/2845 intervals)	BIC	BIC.thresh	-4.84573478689296	1
+#FF0000	1.45	5.8	BIC 0	915 intervals correctly predicted	BIC	BIC.thresh	-4.84573478689296	2
+#FF0000	1.45	5.1	BIC -1	total too low = -3463.8 (2387/2845 intervals)	BIC	BIC.thresh	-4.69040993871041	1
+#FF0000	1.45	5.8	BIC 0	1031 intervals correctly predicted	BIC	BIC.thresh	-4.69040993871041	2
+#FF0000	1.45	5.1	BIC -1	total too low = -3094.4 (2271/2845 intervals)	BIC	BIC.thresh	-4.53233890237791	1
+#FF0000	1.45	5.8	BIC 0	1147 intervals correctly predicted	BIC	BIC.thresh	-4.53233890237791	2
+#FF0000	1.45	5.1	BIC -1	total too low = -2798.2 (2154/2845 intervals)	BIC	BIC.thresh	-4.39858038161976	1
+#FF0000	1.45	5.8	BIC 0	1264 intervals correctly predicted	BIC	BIC.thresh	-4.39858038161976	2
+#FF0000	1.45	5.1	BIC -1	total too low = -2526.7 (2041/2845 intervals)	BIC	BIC.thresh	-4.26925544541917	1
+#FF0000	1.45	5.8	BIC 0	1377 intervals correctly predicted	BIC	BIC.thresh	-4.26925544541917	2
+#FF0000	1.45	5.1	BIC -1	total too low = -2288.7 (1924/2845 intervals)	BIC	BIC.thresh	-4.14938534774656	1
+#FF0000	1.45	5.8	BIC 0	1494 intervals correctly predicted	BIC	BIC.thresh	-4.14938534774656	2
+#FF0000	1.45	5.1	BIC -1	total too low = -2089.4 (1806/2845 intervals)	BIC	BIC.thresh	-4.04281966444467	1
+#FF0000	1.45	5.8	BIC 0	1612 intervals correctly predicted	BIC	BIC.thresh	-4.04281966444467	2
+#FF0000	1.45	5.1	BIC -1	total too low = -1901.3 (1689/2845 intervals)	BIC	BIC.thresh	-3.93533483887987	1
+#FF0000	1.45	5.8	BIC 0	1729 intervals correctly predicted	BIC	BIC.thresh	-3.93533483887987	2
+#FF0000	1.45	5.1	BIC -1	total too low = -1742.3 (1575/2845 intervals)	BIC	BIC.thresh	-3.83818004634803	1
+#FF0000	1.45	5.8	BIC 0	1843 intervals correctly predicted	BIC	BIC.thresh	-3.83818004634803	2
+#FF0000	1.45	5.1	BIC -1	total too low = -1568.8 (1459/2845 intervals)	BIC	BIC.thresh	-3.72393423761704	1
+#FF0000	1.45	5.8	BIC 0	1959 intervals correctly predicted	BIC	BIC.thresh	-3.72393423761704	2
+#FF0000	1.45	5.1	BIC -1	total too low = -1430.6 (1348/2845 intervals)	BIC	BIC.thresh	-3.62534313631142	1
+#FF0000	1.45	5.8	BIC 0	2069 intervals correctly predicted	BIC	BIC.thresh	-3.62534313631142	2
+#FF0000	1.45	6.5	BIC 1	total too high = 0.1 (1/573 intervals)	BIC	BIC.thresh	-3.62534313631142	3
+#FF0000	1.45	5.1	BIC -1	total too low = -1275.0 (1235/2845 intervals)	BIC	BIC.thresh	-3.50431792944493	1
+#FF0000	1.45	5.8	BIC 0	2182 intervals correctly predicted	BIC	BIC.thresh	-3.50431792944493	2
+#FF0000	1.45	6.5	BIC 1	total too high = 0.2 (1/573 intervals)	BIC	BIC.thresh	-3.50431792944493	3
+#FF0000	1.45	5.1	BIC -1	total too low = -1147.6 (1118/2845 intervals)	BIC	BIC.thresh	-3.39563906921822	1
+#FF0000	1.45	5.8	BIC 0	2299 intervals correctly predicted	BIC	BIC.thresh	-3.39563906921822	2
+#FF0000	1.45	6.5	BIC 1	total too high = 0.3 (1/573 intervals)	BIC	BIC.thresh	-3.39563906921822	3
+#FF0000	1.45	5.1	BIC -1	total too low = -983.3 (1001/2845 intervals)	BIC	BIC.thresh	-3.24048455419158	1
+#FF0000	1.45	5.8	BIC 0	2416 intervals correctly predicted	BIC	BIC.thresh	-3.24048455419158	2
+#FF0000	1.45	6.5	BIC 1	total too high = 0.4 (1/573 intervals)	BIC	BIC.thresh	-3.24048455419158	3
+#FF0000	1.45	5.1	BIC -1	total too low = -854.8 (889/2845 intervals)	BIC	BIC.thresh	-3.10526019750774	1
+#FF0000	1.45	5.8	BIC 0	2527 intervals correctly predicted	BIC	BIC.thresh	-3.10526019750774	2
+#FF0000	1.45	6.5	BIC 1	total too high = 0.6 (2/573 intervals)	BIC	BIC.thresh	-3.10526019750774	3
+#FF0000	1.45	5.1	BIC -1	total too low = -749.8 (772/2845 intervals)	BIC	BIC.thresh	-2.97928062723254	1
+#FF0000	1.45	5.8	BIC 0	2644 intervals correctly predicted	BIC	BIC.thresh	-2.97928062723254	2
+#FF0000	1.45	6.5	BIC 1	total too high = 0.9 (2/573 intervals)	BIC	BIC.thresh	-2.97928062723254	3
+#FF0000	1.45	5.1	BIC -1	total too low = -620.3 (667/2845 intervals)	BIC	BIC.thresh	-2.79957050704901	1
+#FF0000	1.45	5.8	BIC 0	2747 intervals correctly predicted	BIC	BIC.thresh	-2.79957050704901	2
+#FF0000	1.45	6.5	BIC 1	total too high = 1.4 (4/573 intervals)	BIC	BIC.thresh	-2.79957050704901	3
+#FF0000	1.45	5.1	BIC -1	total too low = -523.5 (585/2845 intervals)	BIC	BIC.thresh	-2.64499440826257	1
+#FF0000	1.45	5.8	BIC 0	2822 intervals correctly predicted	BIC	BIC.thresh	-2.64499440826257	2
+#FF0000	1.45	6.5	BIC 1	total too high = 2.5 (11/573 intervals)	BIC	BIC.thresh	-2.64499440826257	3
+#FF0000	1.45	5.1	BIC -1	total too low = -424.1 (488/2845 intervals)	BIC	BIC.thresh	-2.45862275139487	1
+#FF0000	1.45	5.8	BIC 0	2915 intervals correctly predicted	BIC	BIC.thresh	-2.45862275139487	2
+#FF0000	1.45	6.5	BIC 1	total too high = 5.0 (15/573 intervals)	BIC	BIC.thresh	-2.45862275139487	3
+#FF0000	1.45	5.1	BIC -1	total too low = -325.7 (386/2845 intervals)	BIC	BIC.thresh	-2.23470821496102	1
+#FF0000	1.45	5.8	BIC 0	3015 intervals correctly predicted	BIC	BIC.thresh	-2.23470821496102	2
+#FF0000	1.45	6.5	BIC 1	total too high = 8.6 (17/573 intervals)	BIC	BIC.thresh	-2.23470821496102	3
+#FF0000	1.45	5.1	BIC -1	total too low = -246.3 (289/2845 intervals)	BIC	BIC.thresh	-1.99555255508257	1
+#FF0000	1.45	5.8	BIC 0	3109 intervals correctly predicted	BIC	BIC.thresh	-1.99555255508257	2
+#FF0000	1.45	6.5	BIC 1	total too high = 13.2 (20/573 intervals)	BIC	BIC.thresh	-1.99555255508257	3
+#FF0000	1.45	5.1	BIC -1	total too low = -174.8 (216/2845 intervals)	BIC	BIC.thresh	-1.71312662899556	1
+#FF0000	1.45	5.8	BIC 0	3173 intervals correctly predicted	BIC	BIC.thresh	-1.71312662899556	2
+#FF0000	1.45	6.5	BIC 1	total too high = 19.9 (29/573 intervals)	BIC	BIC.thresh	-1.71312662899556	3
+#FF0000	1.45	5.8	BIC 0	3206 intervals correctly predicted	BIC	BIC.thresh	-1.49970205728154	2
+#FF0000	1.45	5.1	BIC -1	total too low = -133.2 (169/2845 intervals)	BIC	BIC.thresh	-1.49970205728154	1
+#FF0000	1.45	6.5	BIC 1	total too high = 27.5 (43/573 intervals)	BIC	BIC.thresh	-1.49970205728154	3
+#FF0000	1.45	5.8	BIC 0	3227 intervals correctly predicted	BIC	BIC.thresh	-1.33800451294656	2
+#FF0000	1.45	5.1	BIC -1	total too low = -109.2 (132/2845 intervals)	BIC	BIC.thresh	-1.33800451294656	1
+#FF0000	1.45	6.5	BIC 1	total too high = 35.6 (59/573 intervals)	BIC	BIC.thresh	-1.33800451294656	3
+#FF0000	1.45	5.8	BIC 0	3233 intervals correctly predicted	BIC	BIC.thresh	-1.15601772034319	2
+#FF0000	1.45	6.5	BIC 1	total too high = 47.9 (77/573 intervals)	BIC	BIC.thresh	-1.15601772034319	3
+#FF0000	1.45	5.1	BIC -1	total too low = -87.5 (108/2845 intervals)	BIC	BIC.thresh	-1.15601772034319	1
+#FF0000	1.45	5.8	BIC 0	3235 intervals correctly predicted	BIC	BIC.thresh	-0.99720866873394	2
+#FF0000	1.45	6.5	BIC 1	total too high = 61.5 (96/573 intervals)	BIC	BIC.thresh	-0.99720866873394	3
+#FF0000	1.45	5.1	BIC -1	total too low = -72.3 (87/2845 intervals)	BIC	BIC.thresh	-0.99720866873394	1
+#FF0000	1.45	5.8	BIC 0	3233 intervals correctly predicted	BIC	BIC.thresh	-0.842983649014852	2
+#FF0000	1.45	6.5	BIC 1	total too high = 77.9 (116/573 intervals)	BIC	BIC.thresh	-0.842983649014852	3
+#FF0000	1.45	5.1	BIC -1	total too low = -60.0 (69/2845 intervals)	BIC	BIC.thresh	-0.842983649014852	1
+#FF0000	1.45	5.8	BIC 0	3221 intervals correctly predicted	BIC	BIC.thresh	-0.668864233531317	2
+#FF0000	1.45	6.5	BIC 1	total too high = 100.0 (138/573 intervals)	BIC	BIC.thresh	-0.668864233531317	3
+#FF0000	1.45	5.1	BIC -1	total too low = -48.8 (59/2845 intervals)	BIC	BIC.thresh	-0.668864233531317	1
+#FF0000	1.45	5.8	BIC 0	3207 intervals correctly predicted	BIC	BIC.thresh	-0.441975148478196	2
+#FF0000	1.45	6.5	BIC 1	total too high = 134.0 (160/573 intervals)	BIC	BIC.thresh	-0.441975148478196	3
+#FF0000	1.45	5.1	BIC -1	total too low = -36.3 (51/2845 intervals)	BIC	BIC.thresh	-0.441975148478196	1
+#FF0000	1.45	5.8	BIC 0	3192 intervals correctly predicted	BIC	BIC.thresh	-0.328066682431826	2
+#FF0000	1.45	6.5	BIC 1	total too high = 153.5 (182/573 intervals)	BIC	BIC.thresh	-0.328066682431826	3
+#FF0000	1.45	5.1	BIC -1	total too low = -31.0 (44/2845 intervals)	BIC	BIC.thresh	-0.328066682431826	1
+#FF0000	1.45	5.8	BIC 0	3174 intervals correctly predicted	BIC	BIC.thresh	-0.213307931859514	2
+#FF0000	1.45	6.5	BIC 1	total too high = 175.6 (204/573 intervals)	BIC	BIC.thresh	-0.213307931859514	3
+#FF0000	1.45	5.1	BIC -1	total too low = -26.2 (40/2845 intervals)	BIC	BIC.thresh	-0.213307931859514	1
+#FF0000	1.45	5.8	BIC 0	3153 intervals correctly predicted	BIC	BIC.thresh	-0.0900120964927986	2
+#FF0000	1.45	6.5	BIC 1	total too high = 202.2 (227/573 intervals)	BIC	BIC.thresh	-0.0900120964927986	3
+#FF0000	1.45	5.1	BIC -1	total too low = -21.4 (38/2845 intervals)	BIC	BIC.thresh	-0.0900120964927986	1
+#FF0000	1.45	5.8	BIC 0	3143 intervals correctly predicted	BIC	BIC.thresh	-0.00366525045723953	2
+#FF0000	1.45	6.5	BIC 1	total too high = 222.5 (242/573 intervals)	BIC	BIC.thresh	-0.00366525045723953	3
+#FF0000	1.45	5.1	BIC -1	total too low = -18.3 (33/2845 intervals)	BIC	BIC.thresh	-0.00366525045723953	1
+#FF0000	1.45	5.8	BIC 0	3138 intervals correctly predicted	BIC	BIC.thresh	0.025210726924555	2
+#FF0000	1.45	6.5	BIC 1	total too high = 229.6 (249/573 intervals)	BIC	BIC.thresh	0.025210726924555	3
+#FF0000	1.45	5.1	BIC -1	total too low = -17.4 (31/2845 intervals)	BIC	BIC.thresh	0.025210726924555	1
+#FF0000	1.45	5.8	BIC 0	3118 intervals correctly predicted	BIC	BIC.thresh	0.115421360352252	2
+#FF0000	1.45	6.5	BIC 1	total too high = 253.2 (272/573 intervals)	BIC	BIC.thresh	0.115421360352252	3
+#FF0000	1.45	5.1	BIC -1	total too low = -14.7 (28/2845 intervals)	BIC	BIC.thresh	0.115421360352252	1
+#FF0000	1.45	5.8	BIC 0	3104 intervals correctly predicted	BIC	BIC.thresh	0.232787675674631	2
+#FF0000	1.45	6.5	BIC 1	total too high = 286.4 (293/573 intervals)	BIC	BIC.thresh	0.232787675674631	3
+#FF0000	1.45	5.1	BIC -1	total too low = -11.8 (21/2845 intervals)	BIC	BIC.thresh	0.232787675674631	1
+#FF0000	1.45	5.8	BIC 0	3087 intervals correctly predicted	BIC	BIC.thresh	0.347426700197016	2
+#FF0000	1.45	6.5	BIC 1	total too high = 321.1 (316/573 intervals)	BIC	BIC.thresh	0.347426700197016	3
+#FF0000	1.45	5.1	BIC -1	total too low = -9.8 (15/2845 intervals)	BIC	BIC.thresh	0.347426700197016	1
+#FF0000	1.45	5.8	BIC 0	3066 intervals correctly predicted	BIC	BIC.thresh	0.476342847811818	2
+#FF0000	1.45	6.5	BIC 1	total too high = 363.0 (339/573 intervals)	BIC	BIC.thresh	0.476342847811818	3
+#FF0000	1.45	5.1	BIC -1	total too low = -8.1 (13/2845 intervals)	BIC	BIC.thresh	0.476342847811818	1
+#FF0000	1.45	5.8	BIC 0	3044 intervals correctly predicted	BIC	BIC.thresh	0.611460822251934	2
+#FF0000	1.45	6.5	BIC 1	total too high = 410.5 (362/573 intervals)	BIC	BIC.thresh	0.611460822251934	3
+#FF0000	1.45	5.1	BIC -1	total too low = -6.4 (12/2845 intervals)	BIC	BIC.thresh	0.611460822251934	1
+#FF0000	1.45	5.8	BIC 0	3023 intervals correctly predicted	BIC	BIC.thresh	0.754908325878882	2
+#FF0000	1.45	6.5	BIC 1	total too high = 464.5 (385/573 intervals)	BIC	BIC.thresh	0.754908325878882	3
+#FF0000	1.45	5.1	BIC -1	total too low = -4.7 (10/2845 intervals)	BIC	BIC.thresh	0.754908325878882	1
+#FF0000	1.45	5.8	BIC 0	3003 intervals correctly predicted	BIC	BIC.thresh	0.934012149172178	2
+#FF0000	1.45	6.5	BIC 1	total too high = 535.2 (408/573 intervals)	BIC	BIC.thresh	0.934012149172178	3
+#FF0000	1.45	5.1	BIC -1	total too low = -3.0 (7/2845 intervals)	BIC	BIC.thresh	0.934012149172178	1
+#FF0000	1.45	5.8	BIC 0	2980 intervals correctly predicted	BIC	BIC.thresh	1.12110847617967	2
+#FF0000	1.45	6.5	BIC 1	total too high = 613.7 (432/573 intervals)	BIC	BIC.thresh	1.12110847617967	3
+#FF0000	1.45	5.1	BIC -1	total too low = -1.9 (6/2845 intervals)	BIC	BIC.thresh	1.12110847617967	1
+#FF0000	1.45	5.8	BIC 0	2959 intervals correctly predicted	BIC	BIC.thresh	1.35495532027487	2
+#FF0000	1.45	6.5	BIC 1	total too high = 717.2 (455/573 intervals)	BIC	BIC.thresh	1.35495532027487	3
+#FF0000	1.45	5.1	BIC -1	total too low = -0.6 (4/2845 intervals)	BIC	BIC.thresh	1.35495532027487	1
+#FF0000	1.45	5.8	BIC 0	2939 intervals correctly predicted	BIC	BIC.thresh	1.55998010551708	2
+#FF0000	1.45	6.5	BIC 1	total too high = 813.0 (478/573 intervals)	BIC	BIC.thresh	1.55998010551708	3
+#FF0000	1.45	5.1	BIC -1	total too low = -0.0 (1/2845 intervals)	BIC	BIC.thresh	1.55998010551708	1
+#FF0000	1.45	5.8	BIC 0	2917 intervals correctly predicted	BIC	BIC.thresh	1.84374223424028	2
+#FF0000	1.45	6.5	BIC 1	total too high = 952.4 (501/573 intervals)	BIC	BIC.thresh	1.84374223424028	3
+#FF0000	1.45	5.8	BIC 0	2893 intervals correctly predicted	BIC	BIC.thresh	2.19672696568804	2
+#FF0000	1.45	6.5	BIC 1	total too high = 1133.3 (525/573 intervals)	BIC	BIC.thresh	2.19672696568804	3
+#FF0000	1.45	5.8	BIC 0	2870 intervals correctly predicted	BIC	BIC.thresh	2.51853297452366	2
+#FF0000	1.45	6.5	BIC 1	total too high = 1306.4 (548/573 intervals)	BIC	BIC.thresh	2.51853297452366	3
+#FF0000	1.45	5.8	BIC 0	2846 intervals correctly predicted	BIC	BIC.thresh	4.03737927821149	2
+#FF0000	1.45	6.5	BIC 1	total too high = 2161.4 (572/573 intervals)	BIC	BIC.thresh	4.03737927821149	3
+#00BFFF	1.8	-5.4	learned -1	total too low = -9341.0 (2845/2845 intervals)	learned	learned.thresh	-5.73898528133578	4
+#00BFFF	1.8	-4.7	learned 0	573 intervals correctly predicted	learned	learned.thresh	-5.73898528133578	5
+#00BFFF	1.8	-5.4	learned -1	total too low = -5366.0 (2735/2845 intervals)	learned	learned.thresh	-4.3282350536358	4
+#00BFFF	1.8	-4.7	learned 0	683 intervals correctly predicted	learned	learned.thresh	-4.3282350536358	5
+#00BFFF	1.8	-5.4	learned -1	total too low = -4364.7 (2619/2845 intervals)	learned	learned.thresh	-3.95537891332909	4
+#00BFFF	1.8	-4.7	learned 0	799 intervals correctly predicted	learned	learned.thresh	-3.95537891332909	5
+#00BFFF	1.8	-5.4	learned -1	total too low = -3763.0 (2505/2845 intervals)	learned	learned.thresh	-3.72063363485447	4
+#00BFFF	1.8	-4.7	learned 0	913 intervals correctly predicted	learned	learned.thresh	-3.72063363485447	5
+#00BFFF	1.8	-5.4	learned -1	total too low = -3237.0 (2390/2845 intervals)	learned	learned.thresh	-3.50652440147831	4
+#00BFFF	1.8	-4.7	learned 0	1028 intervals correctly predicted	learned	learned.thresh	-3.50652440147831	5
+#00BFFF	1.8	-5.4	learned -1	total too low = -2864.6 (2273/2845 intervals)	learned	learned.thresh	-3.3465671785449	4
+#00BFFF	1.8	-4.7	learned 0	1145 intervals correctly predicted	learned	learned.thresh	-3.3465671785449	5
+#00BFFF	1.8	-5.4	learned -1	total too low = -2584.8 (2156/2845 intervals)	learned	learned.thresh	-3.2205280514271	4
+#00BFFF	1.8	-4.7	learned 0	1262 intervals correctly predicted	learned	learned.thresh	-3.2205280514271	5
+#00BFFF	1.8	-5.4	learned -1	total too low = -2317.0 (2041/2845 intervals)	learned	learned.thresh	-3.09315209630182	4
+#00BFFF	1.8	-4.7	learned 0	1377 intervals correctly predicted	learned	learned.thresh	-3.09315209630182	5
+#00BFFF	1.8	-5.4	learned -1	total too low = -2012.9 (1925/2845 intervals)	learned	learned.thresh	-2.9396205552424	4
+#00BFFF	1.8	-4.7	learned 0	1493 intervals correctly predicted	learned	learned.thresh	-2.9396205552424	5
+#00BFFF	1.8	-5.4	learned -1	total too low = -1783.3 (1808/2845 intervals)	learned	learned.thresh	-2.81641394458673	4
+#00BFFF	1.8	-4.7	learned 0	1610 intervals correctly predicted	learned	learned.thresh	-2.81641394458673	5
+#00BFFF	1.8	-5.4	learned -1	total too low = -1583.8 (1693/2845 intervals)	learned	learned.thresh	-2.7023982628549	4
+#00BFFF	1.8	-4.7	learned 0	1725 intervals correctly predicted	learned	learned.thresh	-2.7023982628549	5
+#00BFFF	1.8	-5.4	learned -1	total too low = -1410.9 (1578/2845 intervals)	learned	learned.thresh	-2.59645136499986	4
+#00BFFF	1.8	-4.7	learned 0	1840 intervals correctly predicted	learned	learned.thresh	-2.59645136499986	5
+#00BFFF	1.8	-5.4	learned -1	total too low = -1243.4 (1462/2845 intervals)	learned	learned.thresh	-2.48588776535177	4
+#00BFFF	1.8	-4.7	learned 0	1956 intervals correctly predicted	learned	learned.thresh	-2.48588776535177	5
+#00BFFF	1.8	-5.4	learned -1	total too low = -1099.1 (1350/2845 intervals)	learned	learned.thresh	-2.38326846659771	4
+#00BFFF	1.8	-4.7	learned 0	2067 intervals correctly predicted	learned	learned.thresh	-2.38326846659771	5
+#00BFFF	1.8	-4	learned 1	total too high = 0.1 (1/573 intervals)	learned	learned.thresh	-2.38326846659771	6
+#00BFFF	1.8	-5.4	learned -1	total too low = -977.3 (1237/2845 intervals)	learned	learned.thresh	-2.28869683277578	4
+#00BFFF	1.8	-4.7	learned 0	2180 intervals correctly predicted	learned	learned.thresh	-2.28869683277578	5
+#00BFFF	1.8	-4	learned 1	total too high = 0.1 (1/573 intervals)	learned	learned.thresh	-2.28869683277578	6
+#00BFFF	1.8	-5.4	learned -1	total too low = -859.2 (1121/2845 intervals)	learned	learned.thresh	-2.18869767749264	4
+#00BFFF	1.8	-4.7	learned 0	2296 intervals correctly predicted	learned	learned.thresh	-2.18869767749264	5
+#00BFFF	1.8	-4	learned 1	total too high = 0.2 (1/573 intervals)	learned	learned.thresh	-2.18869767749264	6
+#00BFFF	1.8	-5.4	learned -1	total too low = -753.8 (1005/2845 intervals)	learned	learned.thresh	-2.08909204452619	4
+#00BFFF	1.8	-4.7	learned 0	2412 intervals correctly predicted	learned	learned.thresh	-2.08909204452619	5
+#00BFFF	1.8	-4	learned 1	total too high = 0.3 (1/573 intervals)	learned	learned.thresh	-2.08909204452619	6
+#00BFFF	1.8	-5.4	learned -1	total too low = -642.7 (888/2845 intervals)	learned	learned.thresh	-1.97213383617308	4
+#00BFFF	1.8	-4.7	learned 0	2529 intervals correctly predicted	learned	learned.thresh	-1.97213383617308	5
+#00BFFF	1.8	-4	learned 1	total too high = 0.5 (1/573 intervals)	learned	learned.thresh	-1.97213383617308	6
+#00BFFF	1.8	-5.4	learned -1	total too low = -538.6 (776/2845 intervals)	learned	learned.thresh	-1.84651003668234	4
+#00BFFF	1.8	-4.7	learned 0	2640 intervals correctly predicted	learned	learned.thresh	-1.84651003668234	5
+#00BFFF	1.8	-4	learned 1	total too high = 0.6 (2/573 intervals)	learned	learned.thresh	-1.84651003668234	6
+#00BFFF	1.8	-5.4	learned -1	total too low = -447.9 (669/2845 intervals)	learned	learned.thresh	-1.71999751744627	4
+#00BFFF	1.8	-4.7	learned 0	2745 intervals correctly predicted	learned	learned.thresh	-1.71999751744627	5
+#00BFFF	1.8	-4	learned 1	total too high = 1.0 (4/573 intervals)	learned	learned.thresh	-1.71999751744627	6
+#00BFFF	1.8	-5.4	learned -1	total too low = -351.0 (563/2845 intervals)	learned	learned.thresh	-1.56307625015525	4
+#00BFFF	1.8	-4.7	learned 0	2849 intervals correctly predicted	learned	learned.thresh	-1.56307625015525	5
+#00BFFF	1.8	-4	learned 1	total too high = 1.7 (6/573 intervals)	learned	learned.thresh	-1.56307625015525	6
+#00BFFF	1.8	-5.4	learned -1	total too low = -268.9 (446/2845 intervals)	learned	learned.thresh	-1.39984540279874	4
+#00BFFF	1.8	-4.7	learned 0	2966 intervals correctly predicted	learned	learned.thresh	-1.39984540279874	5
+#00BFFF	1.8	-4	learned 1	total too high = 2.7 (6/573 intervals)	learned	learned.thresh	-1.39984540279874	6
+#00BFFF	1.8	-5.4	learned -1	total too low = -194.4 (348/2845 intervals)	learned	learned.thresh	-1.21079227933336	4
+#00BFFF	1.8	-4.7	learned 0	3060 intervals correctly predicted	learned	learned.thresh	-1.21079227933336	5
+#00BFFF	1.8	-4	learned 1	total too high = 4.2 (10/573 intervals)	learned	learned.thresh	-1.21079227933336	6
+#00BFFF	1.8	-5.4	learned -1	total too low = -133.3 (257/2845 intervals)	learned	learned.thresh	-1.00818037577551	4
+#00BFFF	1.8	-4.7	learned 0	3147 intervals correctly predicted	learned	learned.thresh	-1.00818037577551	5
+#00BFFF	1.8	-4	learned 1	total too high = 6.7 (14/573 intervals)	learned	learned.thresh	-1.00818037577551	6
+#00BFFF	1.8	-4.7	learned 0	3197 intervals correctly predicted	learned	learned.thresh	-0.827666604436696	5
+#00BFFF	1.8	-5.4	learned -1	total too low = -92.9 (196/2845 intervals)	learned	learned.thresh	-0.827666604436696	4
+#00BFFF	1.8	-4	learned 1	total too high = 10.6 (25/573 intervals)	learned	learned.thresh	-0.827666604436696	6
+#00BFFF	1.8	-4.7	learned 0	3268 intervals correctly predicted	learned	learned.thresh	-0.602029491340173	5
+#00BFFF	1.8	-5.4	learned -1	total too low = -57.5 (118/2845 intervals)	learned	learned.thresh	-0.602029491340173	4
+#00BFFF	1.8	-4	learned 1	total too high = 17.2 (32/573 intervals)	learned	learned.thresh	-0.602029491340173	6
+#00BFFF	1.8	-4.7	learned 0	3313 intervals correctly predicted	learned	learned.thresh	-0.214768878328755	5
+#00BFFF	1.8	-5.4	learned -1	total too low = -23.1 (61/2845 intervals)	learned	learned.thresh	-0.214768878328755	4
+#00BFFF	1.8	-4	learned 1	total too high = 32.3 (44/573 intervals)	learned	learned.thresh	-0.214768878328755	6
+#00BFFF	1.8	-4.7	learned 0	3336 intervals correctly predicted	learned	learned.thresh	-0.00249927116413295	5
+#00BFFF	1.8	-5.4	learned -1	total too low = -13.9 (28/2845 intervals)	learned	learned.thresh	-0.00249927116413295	4
+#00BFFF	1.8	-4	learned 1	total too high = 42.7 (54/573 intervals)	learned	learned.thresh	-0.00249927116413295	6
+#00BFFF	1.8	-4.7	learned 0	3334 intervals correctly predicted	learned	learned.thresh	0.0670814359630171	5
+#00BFFF	1.8	-5.4	learned -1	total too low = -12.1 (24/2845 intervals)	learned	learned.thresh	0.0670814359630171	4
+#00BFFF	1.8	-4	learned 1	total too high = 46.8 (60/573 intervals)	learned	learned.thresh	0.0670814359630171	6
+#00BFFF	1.8	-4.7	learned 0	3319 intervals correctly predicted	learned	learned.thresh	0.272879899223195	5
+#00BFFF	1.8	-5.4	learned -1	total too low = -7.9 (17/2845 intervals)	learned	learned.thresh	0.272879899223195	4
+#00BFFF	1.8	-4	learned 1	total too high = 61.0 (82/573 intervals)	learned	learned.thresh	0.272879899223195	6
+#00BFFF	1.8	-4.7	learned 0	3300 intervals correctly predicted	learned	learned.thresh	0.440513190624701	5
+#00BFFF	1.8	-4	learned 1	total too high = 76.9 (105/573 intervals)	learned	learned.thresh	0.440513190624701	6
+#00BFFF	1.8	-5.4	learned -1	total too low = -5.5 (13/2845 intervals)	learned	learned.thresh	0.440513190624701	4
+#00BFFF	1.8	-4.7	learned 0	3284 intervals correctly predicted	learned	learned.thresh	0.618676453845889	5
+#00BFFF	1.8	-4	learned 1	total too high = 97.8 (127/573 intervals)	learned	learned.thresh	0.618676453845889	6
+#00BFFF	1.8	-5.4	learned -1	total too low = -3.7 (7/2845 intervals)	learned	learned.thresh	0.618676453845889	4
+#00BFFF	1.8	-4.7	learned 0	3261 intervals correctly predicted	learned	learned.thresh	0.754094289737101	5
+#00BFFF	1.8	-4	learned 1	total too high = 116.7 (151/573 intervals)	learned	learned.thresh	0.754094289737101	6
+#00BFFF	1.8	-5.4	learned -1	total too low = -2.8 (6/2845 intervals)	learned	learned.thresh	0.754094289737101	4
+#00BFFF	1.8	-4.7	learned 0	3241 intervals correctly predicted	learned	learned.thresh	0.988868928216768	5
+#00BFFF	1.8	-4	learned 1	total too high = 155.0 (174/573 intervals)	learned	learned.thresh	0.988868928216768	6
+#00BFFF	1.8	-5.4	learned -1	total too low = -1.6 (3/2845 intervals)	learned	learned.thresh	0.988868928216768	4
+#00BFFF	1.8	-4.7	learned 0	3219 intervals correctly predicted	learned	learned.thresh	1.16976295728249	5
+#00BFFF	1.8	-4	learned 1	total too high = 188.1 (196/573 intervals)	learned	learned.thresh	1.16976295728249	6
+#00BFFF	1.8	-5.4	learned -1	total too low = -1.0 (3/2845 intervals)	learned	learned.thresh	1.16976295728249	4
+#00BFFF	1.8	-4.7	learned 0	3195 intervals correctly predicted	learned	learned.thresh	1.32632859871698	5
+#00BFFF	1.8	-4	learned 1	total too high = 220.8 (220/573 intervals)	learned	learned.thresh	1.32632859871698	6
+#00BFFF	1.8	-5.4	learned -1	total too low = -0.5 (3/2845 intervals)	learned	learned.thresh	1.32632859871698	4
+#00BFFF	1.8	-4.7	learned 0	3173 intervals correctly predicted	learned	learned.thresh	1.41826118826963	5
+#00BFFF	1.8	-4	learned 1	total too high = 242.0 (243/573 intervals)	learned	learned.thresh	1.41826118826963	6
+#00BFFF	1.8	-5.4	learned -1	total too low = -0.3 (2/2845 intervals)	learned	learned.thresh	1.41826118826963	4
+#00BFFF	1.8	-4.7	learned 0	3149 intervals correctly predicted	learned	learned.thresh	1.52658576457768	5
+#00BFFF	1.8	-4	learned 1	total too high = 269.4 (267/573 intervals)	learned	learned.thresh	1.52658576457768	6
+#00BFFF	1.8	-5.4	learned -1	total too low = -0.1 (2/2845 intervals)	learned	learned.thresh	1.52658576457768	4
+#00BFFF	1.8	-4.7	learned 0	3129 intervals correctly predicted	learned	learned.thresh	1.64411865184755	5
+#00BFFF	1.8	-4	learned 1	total too high = 302.0 (289/573 intervals)	learned	learned.thresh	1.64411865184755	6
+#00BFFF	1.8	-4.7	learned 0	3105 intervals correctly predicted	learned	learned.thresh	1.78233382004739	5
+#00BFFF	1.8	-4	learned 1	total too high = 343.8 (313/573 intervals)	learned	learned.thresh	1.78233382004739	6
+#00BFFF	1.8	-4.7	learned 0	3082 intervals correctly predicted	learned	learned.thresh	1.8829424696659	5
+#00BFFF	1.8	-4	learned 1	total too high = 376.3 (336/573 intervals)	learned	learned.thresh	1.8829424696659	6
+#00BFFF	1.8	-4.7	learned 0	3058 intervals correctly predicted	learned	learned.thresh	1.99700619141638	5
+#00BFFF	1.8	-4	learned 1	total too high = 415.8 (360/573 intervals)	learned	learned.thresh	1.99700619141638	6
+#00BFFF	1.8	-4.7	learned 0	3035 intervals correctly predicted	learned	learned.thresh	2.11786206220658	5
+#00BFFF	1.8	-4	learned 1	total too high = 460.8 (383/573 intervals)	learned	learned.thresh	2.11786206220658	6
+#00BFFF	1.8	-4.7	learned 0	3011 intervals correctly predicted	learned	learned.thresh	2.25154049315582	5
+#00BFFF	1.8	-4	learned 1	total too high = 513.6 (407/573 intervals)	learned	learned.thresh	2.25154049315582	6
+#00BFFF	1.8	-4.7	learned 0	2987 intervals correctly predicted	learned	learned.thresh	2.39576698317929	5
+#00BFFF	1.8	-4	learned 1	total too high = 574.2 (431/573 intervals)	learned	learned.thresh	2.39576698317929	6
+#00BFFF	1.8	-4.7	learned 0	2964 intervals correctly predicted	learned	learned.thresh	2.53747208900789	5
+#00BFFF	1.8	-4	learned 1	total too high = 637.1 (454/573 intervals)	learned	learned.thresh	2.53747208900789	6
+#00BFFF	1.8	-4.7	learned 0	2940 intervals correctly predicted	learned	learned.thresh	2.69422261602522	5
+#00BFFF	1.8	-4	learned 1	total too high = 709.8 (478/573 intervals)	learned	learned.thresh	2.69422261602522	6
+#00BFFF	1.8	-4.7	learned 0	2917 intervals correctly predicted	learned	learned.thresh	2.84165163988694	5
+#00BFFF	1.8	-4	learned 1	total too high = 781.8 (501/573 intervals)	learned	learned.thresh	2.84165163988694	6
+#00BFFF	1.8	-4.7	learned 0	2893 intervals correctly predicted	learned	learned.thresh	3.15592092433379	5
+#00BFFF	1.8	-4	learned 1	total too high = 942.9 (525/573 intervals)	learned	learned.thresh	3.15592092433379	6
+#00BFFF	1.8	-4.7	learned 0	2870 intervals correctly predicted	learned	learned.thresh	3.49577695359199	5
+#00BFFF	1.8	-4	learned 1	total too high = 1125.6 (548/573 intervals)	learned	learned.thresh	3.49577695359199	6
+#00BFFF	1.8	-4.7	learned 0	2846 intervals correctly predicted	learned	learned.thresh	4.20361996538578	5
+#00BFFF	1.8	-4	learned 1	total too high = 1523.7 (572/573 intervals)	learned	learned.thresh	4.20361996538578	6

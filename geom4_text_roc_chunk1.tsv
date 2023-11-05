@@ -1,0 +1,3 @@
+colour	x	y	label	showSelectedlegendcolour	group
+#FF0000	1	0.85	BIC AUC = 0.9790	BIC	1
+#00BFFF	1	0.9	learned AUC = 0.9911	learned	2
